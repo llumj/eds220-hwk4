@@ -1,7 +1,7 @@
 # eds220-hwk4
 Homework 4 Python
 
-Title
+Title:
 Thomas Fire False Color Analysis Project
 
 About:
