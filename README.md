@@ -4,17 +4,17 @@ Homework 4 Python
 Title
 Thomas Fire False Color Analysis Project
 
-About
+About:
 This repository contains analysis and visualization of the Thomas Fire using satellite imagery and geospatial data. The project utilizes false color imagery to highlight various features of the landscape affected by the fire. By overlaying the fire perimeter with remote sensing data, we aim to provide a comprehensive understanding of the fire's impact.
 
 Repository Structure
-data/: Contains the raw and processed data files used for analysis. One is a shapefile of the Thomas Fire boundary and the other is a geodatabase containing all California fires.
+data: Contains the raw and processed data files used for analysis. One is a shapefile of the Thomas Fire boundary and the other is a geodatabase containing all California fires.
 
-notebooks/: Jupyter notebooks that document the analysis and visualization steps.
+notebooks: Jupyter notebooks that document the analysis and visualization steps.
 
 README.md: Overview of the repository and instructions for use.
 
-Data
+Data:
 The data used in this project includes satellite imagery from the Landsat program and the fire perimeter shapefile for the Thomas Fire.
 
 Satellite Imagery: Landsat imagery accessed via the server at UCSB
